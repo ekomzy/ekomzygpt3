@@ -1,4 +1,5 @@
-{ "homepage": "http://ekomzy.github.io/ekomzygpt3",
+{
+  "homepage": "https://ekomzy.github.io/gpt3_ekomzy",
   "name": "gpt3_ekomzy",
   "version": "0.1.0",
   "private": true,
